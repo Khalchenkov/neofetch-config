@@ -14,4 +14,5 @@ cp neofetch-config/normal_logo ~/.config/neofetch/normal/logo
 cp neofetch-config/normal_logo_agro ~/.config/neofetch/normal/logo_agro
 cp neofetch-config/small.conf ~/.config/neofetch/small/config.conf
 cp neofetch-config/small_logo ~/.config/neofetch/small/logo
+rd neofetch-config
 ```
