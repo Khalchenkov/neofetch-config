@@ -7,6 +7,7 @@ git clone https://github.com/Khalchenkov/neofetch-config.git
 <p>Move file</p>
 
 ```bash
+md ~/.config/neofetch
 md ~/.config/neofetch/normal ~/.config/neofetch/small
 cp neofetch-config/normal.conf ~/.config/neofetch/normal/config.conf
 cp neofetch-config/normal_logo ~/.config/neofetch/normal/logo
