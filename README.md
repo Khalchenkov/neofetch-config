@@ -5,6 +5,7 @@
 git clone https://github.com/Khalchenkov/neofetch-config.git
 ```
 <p>Move file</p>
+
 ```bash
 md ~/.config/neofetch/normal ~/.config/neofetch/small
 cd neofetch-config
