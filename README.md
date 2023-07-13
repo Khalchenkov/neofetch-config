@@ -1,10 +1,10 @@
 # neofetch-config
-<p>Cloning Repo</p>
+Cloning Repo
   
 ```bash
 git clone https://github.com/Khalchenkov/neofetch-config.git
 ```
-<p>Move file</p>
+Move file
 
 ```bash
 md ~/.config/neofetch
