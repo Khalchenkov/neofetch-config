@@ -2,8 +2,7 @@
 Cloning Repo
   
 ```bash
-git clone https://github.com/Khalchenkov/neofetch-config.git
-cd neofetch-config
+git clone https://github.com/Khalchenkov/neofetch-config.git && cd neofetch-config
 ```
 Run install.sh script
 
