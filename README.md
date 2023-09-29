@@ -1,4 +1,5 @@
-# Neofetch setup
+<h1 align="center">Neofetch setup</h1>
+
 Cloning Repo
   
 ```bash
