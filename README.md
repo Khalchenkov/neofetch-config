@@ -9,9 +9,3 @@ Run install.sh script
 ```bash
 sh install.sh
 ```
-
-Or
-
-```bash
-./install.sh
-```
