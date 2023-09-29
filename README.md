@@ -1,5 +1,7 @@
 <h1 align="center">Neofetch setup</h1>
 
+<p align="center"> <img src="https://github.com/Khalchenkov/neofetch-config/blob/main/normal.png" /> </p>
+
 Cloning Repo
   
 ```bash
