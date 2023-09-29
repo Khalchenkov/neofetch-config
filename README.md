@@ -7,12 +7,11 @@ git clone https://github.com/Khalchenkov/neofetch-config.git
 Move file
 
 ```bash
-md ~/.config/neofetch
-md ~/.config/neofetch/normal ~/.config/neofetch/small
-cp neofetch-config/normal.conf ~/.config/neofetch/normal/config.conf
-cp neofetch-config/normal_logo ~/.config/neofetch/normal/logo
-cp neofetch-config/normal_logo_agro ~/.config/neofetch/normal/logo_agro
-cp neofetch-config/small.conf ~/.config/neofetch/small/config.conf
-cp neofetch-config/small_logo ~/.config/neofetch/small/logo
-rd neofetch-config
+sh install.sh
+```
+
+Or
+
+```bash
+./install.sh
 ```
