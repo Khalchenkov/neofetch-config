@@ -1,3 +1,5 @@
+#! /usr/bin/env bash
+
 md ~/.config/neofetch
 md ~/.config/neofetch/normal ~/.config/neofetch/small
 cp normal.conf ~/.config/neofetch/normal/config.conf
