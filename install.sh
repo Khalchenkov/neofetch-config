@@ -1,4 +1,4 @@
-#! /usr/bin/env bash
+#! /bin/bash
 
 md ~/.config/neofetch
 md ~/.config/neofetch/normal ~/.config/neofetch/small
