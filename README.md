@@ -1,4 +1,4 @@
-# neofetch-config
+# Neofetch setup
 Cloning Repo
   
 ```bash
